@@ -1,0 +1,46 @@
+====================================================================
+               DOCUMENTO DE ENTREGA - TALLER HTML5 UP
+====================================================================
+
+1. INFORMACIÓN DEL PROYECTO
+--------------------------------------------------------------------
+- Tema seleccionado: Overwatch - Base de Datos de Agentes
+- Plantilla base utilizada: HTML5 UP (Dimension)
+- URL de GitHub Pages: https://tuusuario.github.io/overwatch-site/
+- Repositorio de GitHub: https://github.com/tuusuario/overwatch-site
+
+2. DESCRIPCIÓN Y CAMBIOS REALIZADOS
+--------------------------------------------------------------------
+- Personalización completa del tema: Se adaptó la estructura y estilo 
+  de la plantilla de HTML5 UP al universo del videojuego Overwatch.
+- Estructura y Navegación: Se organized el sitio en 5 páginas HTML 
+  independientes (index.html, heroes.html, mapas.html, multimedia.html 
+  y contacto.html) conectadas mediante una barra de navegación semántica.
+- Gestión de fuentes (Assets): Se integraron localmente los archivos de 
+  fuentes iconográficas de Font Awesome 5 dentro de assets/webfonts/.
+- Paleta de colores e identidad visual: Se ajustaron las reglas CSS 
+  para utilizar los colores icónicos del juego (naranja #F99E1A, azul 
+  oscuro #1A1E29 y acentos #00AEFF).
+- JavaScript e Interactividad: Se crearon e integraron scripts de JS 
+  personalizados para el filtrado dinámico de héroes por rol y un 
+  contador de agentes activos.
+
+3. CHECKLIST DE REQUISITOS CUMPLIDOS
+--------------------------------------------------------------------
+[x] Plantilla HTML5 UP personalizada.
+[x] Mínimo 5 secciones/páginas navegables.
+[x] Contenido original tematizado (Overwatch).
+[x] Multimedia: 6 imágenes, 2 videos, 1 audio, 1 GIF animado y 1 infografía.
+[x] 5 enlaces externos a sitios oficiales.
+[x] 3 scripts de JavaScript (1 base + 2 adicionales).
+[x] Diseño completamente responsive y optimizado para móviles/escritorio.
+[x] Publicado en GitHub Pages.
+[x] Atribución a HTML5 UP incluida en el pie de página.
+[x] Archivo .zip listo para entrega.
+
+4. REFLEXIÓN PERSONAL
+--------------------------------------------------------------------
+Durante el desarrollo de este taller aprendí a tomar una plantilla web 
+prediseñada en HTML5/CSS3 y reestructurar tanto sus archivos de código como 
+sus hojas de estilo para adaptarla a una temática específica (Overwatch).
+====================================================================

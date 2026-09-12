@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    src: url("../webfonts/fa-solid-900.woff2") format("woff2");
+}
+
+body {
+    background-color: #1a1e29;
+    color: #e0e6ed;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #f99e1a;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+a {
+    color: #00aeff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f99e1a;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+nav a {
+    background-color: #f99e1a;
+    color: #ffffff;
+    padding: 10px 18px;
+    border-radius: 4px;
+    font-weight: bold;
+    display: inline-block;
+    transition: background 0.3s;
+}
+
+nav a:hover {
+    background-color: #e08b0e;
+    color: #ffffff;
+}
+
+.content {
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+.card {
+    background: #252b3b;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+.hero-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.filter-bar button {
+    background: #434856;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    margin: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.filter-bar button:hover {
+    background: #f99e1a;
+}
+
+footer {
+    margin-top: 50px;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+    font-size: 0.9em;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
